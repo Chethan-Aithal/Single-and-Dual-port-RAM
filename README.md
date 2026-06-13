@@ -136,8 +136,6 @@ The repository includes simple testbenches demonstrating:
 
 Waveforms can be viewed using:
 
-- ModelSim
-- QuestaSim
 - Vivado Simulator
 - Icarus Verilog + GTKWave
 
