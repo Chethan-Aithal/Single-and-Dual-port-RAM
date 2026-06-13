@@ -153,5 +153,5 @@ Waveforms can be viewed using:
 ---
 
 # Author
-
+Created by **Chethan Aithal**
 Verilog HDL Memory Design Project for Digital Design and FPGA Learning.
